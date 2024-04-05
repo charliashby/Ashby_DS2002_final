@@ -1,0 +1,2252 @@
+[
+  {
+    "CustomerID": 1,
+    "CustomerName": "C1",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 2,
+    "CustomerName": "C2",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 3,
+    "CustomerName": "C3",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 1
+  },
+  {
+    "CustomerID": 4,
+    "CustomerName": "C4",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 1
+  },
+  {
+    "CustomerID": 5,
+    "CustomerName": "C5",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 6,
+    "CustomerName": "C6",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 7,
+    "CustomerName": "C7",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Consumer",
+    "LeadSource": "Other",
+    "Discontinued": 1
+  },
+  {
+    "CustomerID": 8,
+    "CustomerName": "C8",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Consumer",
+    "LeadSource": "Other",
+    "Discontinued": 1
+  },
+  {
+    "CustomerID": 9,
+    "CustomerName": "C9",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Other",
+    "Discontinued": 1
+  },
+  {
+    "CustomerID": 10,
+    "CustomerName": "C10",
+    "Region": "Perm",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 1
+  },
+  {
+    "CustomerID": 11,
+    "CustomerName": "C11",
+    "Region": "Pereslavl-Zalessky",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 1
+  },
+  {
+    "CustomerID": 12,
+    "CustomerName": "C12",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 1
+  },
+  {
+    "CustomerID": 13,
+    "CustomerName": "C13",
+    "Region": "Perm",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 14,
+    "CustomerName": "C14",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 15,
+    "CustomerName": "C15",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 16,
+    "CustomerName": "C16",
+    "Region": "Zelenograd",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 17,
+    "CustomerName": "C17",
+    "Region": "Voronezh",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 18,
+    "CustomerName": "C18",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 2,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 19,
+    "CustomerName": "C19",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 20,
+    "CustomerName": "C20",
+    "Region": "Samara",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 21,
+    "CustomerName": "C21",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 22,
+    "CustomerName": "C22",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 2,
+    "CustomerClass": "Large-Scale Wholesaler-2",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 23,
+    "CustomerName": "C23",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 1
+  },
+  {
+    "CustomerID": 24,
+    "CustomerName": "C24",
+    "Region": "Yekaterinburgh",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 25,
+    "CustomerName": "C25",
+    "Region": "Nizhny Novgorod",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 26,
+    "CustomerName": "C26",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 28,
+    "CustomerName": "C27",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 29,
+    "CustomerName": "C28",
+    "Region": "Orekhovo-Zuyevo",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 31,
+    "CustomerName": "C29",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 32,
+    "CustomerName": "C30",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 7,
+    "CustomerClass": "Consumer",
+    "LeadSource": "Other",
+    "Discontinued": 1
+  },
+  {
+    "CustomerID": 33,
+    "CustomerName": "C31",
+    "Region": "Mogilev",
+    "Country": "Belarus",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 34,
+    "CustomerName": "C32",
+    "Region": "Voronezh",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 35,
+    "CustomerName": "C33",
+    "Region": "Omsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 36,
+    "CustomerName": "C34",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Other",
+    "Discontinued": 1
+  },
+  {
+    "CustomerID": 37,
+    "CustomerName": "C35",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Other",
+    "Discontinued": 1
+  },
+  {
+    "CustomerID": 38,
+    "CustomerName": "C36",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Other",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 39,
+    "CustomerName": "C37",
+    "Region": "Serpukhov",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 40,
+    "CustomerName": "C38",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 2,
+    "CustomerClass": "Large-Scale Wholesaler-2",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 41,
+    "CustomerName": "C39",
+    "Region": "Khabarovsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 42,
+    "CustomerName": "C40",
+    "Region": "Murmansk",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 43,
+    "CustomerName": "C41",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 44,
+    "CustomerName": "C42",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 45,
+    "CustomerName": "C43",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 47,
+    "CustomerName": "C44",
+    "Region": "Sochi",
+    "Country": "Russian Federation",
+    "PriceCategory": 2,
+    "CustomerClass": "Large-Scale Wholesaler-2",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 48,
+    "CustomerName": "C45",
+    "Region": "Tver",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 50,
+    "CustomerName": "C46",
+    "Region": "Murmansk",
+    "Country": "Russian Federation",
+    "PriceCategory": 7,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 1
+  },
+  {
+    "CustomerID": 51,
+    "CustomerName": "C47",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 52,
+    "CustomerName": "C48",
+    "Region": "Tver",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 53,
+    "CustomerName": "C49",
+    "Region": "Omsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 54,
+    "CustomerName": "C50",
+    "Region": "Ulyanovsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 1
+  },
+  {
+    "CustomerID": 55,
+    "CustomerName": "C51",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 56,
+    "CustomerName": "C52",
+    "Region": "Surgut",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 57,
+    "CustomerName": "C53",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 58,
+    "CustomerName": "C54",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 59,
+    "CustomerName": "C55",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 60,
+    "CustomerName": "C56",
+    "Region": "Kirov",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 61,
+    "CustomerName": "C57",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Other",
+    "Discontinued": 1
+  },
+  {
+    "CustomerID": 62,
+    "CustomerName": "C58",
+    "Region": "Severodvinsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 63,
+    "CustomerName": "C59",
+    "Region": "Surgut",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 64,
+    "CustomerName": "C60",
+    "Region": "Chelyabinsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 66,
+    "CustomerName": "C61",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 6,
+    "CustomerClass": "Branch",
+    "LeadSource": "Other",
+    "Discontinued": 1
+  },
+  {
+    "CustomerID": 67,
+    "CustomerName": "C62",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 2,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 68,
+    "CustomerName": "C63",
+    "Region": "Krasnogorsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 69,
+    "CustomerName": "C64",
+    "Region": "Orenburg",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 71,
+    "CustomerName": "C65",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 72,
+    "CustomerName": "C66",
+    "Region": "Novomoskovsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 73,
+    "CustomerName": "C67",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 74,
+    "CustomerName": "C68",
+    "Region": "Yuzhno-Sakhalinsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 76,
+    "CustomerName": "C69",
+    "Region": "Novosibirsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 78,
+    "CustomerName": "C70",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Other",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 79,
+    "CustomerName": "C71",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 81,
+    "CustomerName": "C72",
+    "Region": "Khabarovsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 82,
+    "CustomerName": "C73",
+    "Region": "Voronezh",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 83,
+    "CustomerName": "C74",
+    "Region": "Kazan",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 84,
+    "CustomerName": "C75",
+    "Region": "Yekaterinburgh",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 85,
+    "CustomerName": "C76",
+    "Region": "Astrakhan",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Large-Scale Wholesaler-2",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 86,
+    "CustomerName": "C77",
+    "Region": "Kurgan",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 87,
+    "CustomerName": "C78",
+    "Region": "Irkutsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 88,
+    "CustomerName": "C79",
+    "Region": "Rostov-on-Don",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 89,
+    "CustomerName": "C80",
+    "Region": "Saratov",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 90,
+    "CustomerName": "C81",
+    "Region": "Abakan",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 91,
+    "CustomerName": "C82",
+    "Region": "Mineralnye Vody",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 92,
+    "CustomerName": "C83",
+    "Region": "Novosibirsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 93,
+    "CustomerName": "C84",
+    "Region": "Mytishchi",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 94,
+    "CustomerName": "C85",
+    "Region": "Volgograd",
+    "Country": "Russian Federation",
+    "PriceCategory": 2,
+    "CustomerClass": "Large-Scale Wholesaler-2",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 1
+  },
+  {
+    "CustomerID": 95,
+    "CustomerName": "C86",
+    "Region": "Voronezh",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 96,
+    "CustomerName": "C87",
+    "Region": "Chelyabinsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-2",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 97,
+    "CustomerName": "C88",
+    "Region": "Ryazan",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 98,
+    "CustomerName": "C89",
+    "Region": "Omsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-2",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 99,
+    "CustomerName": "C90",
+    "Region": "Samara",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 100,
+    "CustomerName": "C91",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 101,
+    "CustomerName": "C92",
+    "Region": "Chelyabinsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 1
+  },
+  {
+    "CustomerID": 102,
+    "CustomerName": "C93",
+    "Region": "Ryazan",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 103,
+    "CustomerName": "C94",
+    "Region": "Chelyabinsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 104,
+    "CustomerName": "C95",
+    "Region": "Tyumen",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Other",
+    "Discontinued": 1
+  },
+  {
+    "CustomerID": 105,
+    "CustomerName": "C96",
+    "Region": "Penza",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 106,
+    "CustomerName": "C97",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 107,
+    "CustomerName": "C98",
+    "Region": "Tula",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 108,
+    "CustomerName": "C99",
+    "Region": "Krasnoyarsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 109,
+    "CustomerName": "C100",
+    "Region": "Ivanovo",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 1
+  },
+  {
+    "CustomerID": 110,
+    "CustomerName": "C101",
+    "Region": "Yekaterinburgh",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 111,
+    "CustomerName": "C102",
+    "Region": "Perm",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 112,
+    "CustomerName": "C103",
+    "Region": "Tolyatti",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 114,
+    "CustomerName": "C104",
+    "Region": "Saint Petersburg",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 116,
+    "CustomerName": "C105",
+    "Region": "Pavlovsky Posad",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 117,
+    "CustomerName": "C106",
+    "Region": "Petrozavodsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 118,
+    "CustomerName": "C107",
+    "Region": "Yekaterinburgh",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 119,
+    "CustomerName": "C108",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 120,
+    "CustomerName": "C109",
+    "Region": "Nizhny Novgorod",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 122,
+    "CustomerName": "C110",
+    "Region": "Khabarovsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 123,
+    "CustomerName": "C111",
+    "Region": "Neryungri",
+    "Country": "Russian Federation",
+    "PriceCategory": 2,
+    "CustomerClass": "Large-Scale Wholesaler-2",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 124,
+    "CustomerName": "C112",
+    "Region": "Khabarovsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 126,
+    "CustomerName": "C113",
+    "Region": "Kovrov",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 127,
+    "CustomerName": "C114",
+    "Region": "Minsk",
+    "Country": "Belarus",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 128,
+    "CustomerName": "C115",
+    "Region": "Petropavlovsk-Kamchatsky",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 129,
+    "CustomerName": "C116",
+    "Region": "Ivanovo",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 130,
+    "CustomerName": "C117",
+    "Region": "Orenburg",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 131,
+    "CustomerName": "C118",
+    "Region": "Volgodonsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 132,
+    "CustomerName": "C119",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 133,
+    "CustomerName": "C120",
+    "Region": "Gomel",
+    "Country": "Belarus",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 134,
+    "CustomerName": "C121",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 135,
+    "CustomerName": "C122",
+    "Region": "Samara",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 136,
+    "CustomerName": "C123",
+    "Region": "Yaroslavl",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Trade Shows",
+    "Discontinued": 1
+  },
+  {
+    "CustomerID": 137,
+    "CustomerName": "C124",
+    "Region": "Orenburg",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Trade Shows",
+    "Discontinued": 1
+  },
+  {
+    "CustomerID": 138,
+    "CustomerName": "C125",
+    "Region": "Kemerovo",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 139,
+    "CustomerName": "C126",
+    "Region": "Kostroma",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Trade Shows",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 140,
+    "CustomerName": "C127",
+    "Region": "Pyatigorsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 141,
+    "CustomerName": "C128",
+    "Region": "Novokuznetsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 1
+  },
+  {
+    "CustomerID": 142,
+    "CustomerName": "C129",
+    "Region": "Tver",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 143,
+    "CustomerName": "C130",
+    "Region": "Pavlovsky Posad",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 145,
+    "CustomerName": "C131",
+    "Region": "Tyumen",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 147,
+    "CustomerName": "C132",
+    "Region": "Magadan",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 148,
+    "CustomerName": "C133",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 149,
+    "CustomerName": "C134",
+    "Region": "Kurgan",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 151,
+    "CustomerName": "C135",
+    "Region": "Sochi",
+    "Country": "Russian Federation",
+    "PriceCategory": 2,
+    "CustomerClass": "Large-Scale Wholesaler-2",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 152,
+    "CustomerName": "C136",
+    "Region": "Cherepovets",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 153,
+    "CustomerName": "C137",
+    "Region": "Tobolsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 2,
+    "CustomerClass": "Large-Scale Wholesaler-2",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 155,
+    "CustomerName": "C138",
+    "Region": "Krasnoyarsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 156,
+    "CustomerName": "C139",
+    "Region": "Uglich",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 157,
+    "CustomerName": "C140",
+    "Region": "Khimki",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 158,
+    "CustomerName": "C141",
+    "Region": "Lyubertsy",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 159,
+    "CustomerName": "C142",
+    "Region": "Omsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 160,
+    "CustomerName": "C143",
+    "Region": "Syktyvkar",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 161,
+    "CustomerName": "C144",
+    "Region": "Ramenskoye",
+    "Country": "Russian Federation",
+    "PriceCategory": 2,
+    "CustomerClass": "Large-Scale Wholesaler-2",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 162,
+    "CustomerName": "C145",
+    "Region": "Vladimir",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 163,
+    "CustomerName": "C146",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 164,
+    "CustomerName": "C147",
+    "Region": "Saint Petersburg",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 165,
+    "CustomerName": "C148",
+    "Region": "Ryazan",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 166,
+    "CustomerName": "C149",
+    "Region": "Kostroma",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 167,
+    "CustomerName": "C150",
+    "Region": "Saint Petersburg",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 169,
+    "CustomerName": "C151",
+    "Region": "Volgograd",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 170,
+    "CustomerName": "C152",
+    "Region": "Kostroma",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 171,
+    "CustomerName": "C153",
+    "Region": "Yuzhno-Sakhalinsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 172,
+    "CustomerName": "C154",
+    "Region": "Zheleznodorozhny",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 173,
+    "CustomerName": "C155",
+    "Region": "Penza",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 174,
+    "CustomerName": "C156",
+    "Region": "Zernograd",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Referral by Third Parties",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 175,
+    "CustomerName": "C157",
+    "Region": "Saint Petersburg",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 176,
+    "CustomerName": "C158",
+    "Region": "Saratov",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 177,
+    "CustomerName": "C159",
+    "Region": "Shakhovskaya",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 178,
+    "CustomerName": "C160",
+    "Region": "Oryol",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 1
+  },
+  {
+    "CustomerID": 179,
+    "CustomerName": "C161",
+    "Region": "Chelyabinsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 180,
+    "CustomerName": "C162",
+    "Region": "Ukhta",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 181,
+    "CustomerName": "C163",
+    "Region": "Tomsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 182,
+    "CustomerName": "C164",
+    "Region": "Rostov-on-Don",
+    "Country": "Russian Federation",
+    "PriceCategory": 2,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 183,
+    "CustomerName": "C165",
+    "Region": "Saratov",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 184,
+    "CustomerName": "C166",
+    "Region": "Istra",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 185,
+    "CustomerName": "C167",
+    "Region": "Rostov-on-Don",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 186,
+    "CustomerName": "C168",
+    "Region": "Saint Petersburg",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 187,
+    "CustomerName": "C169",
+    "Region": "Vladimir",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 188,
+    "CustomerName": "C170",
+    "Region": "Perm",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 189,
+    "CustomerName": "C171",
+    "Region": "Krasnodar",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 190,
+    "CustomerName": "C172",
+    "Region": "Krasnodar",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 191,
+    "CustomerName": "C173",
+    "Region": "Krasnodar",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 192,
+    "CustomerName": "C174",
+    "Region": "Tula",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 193,
+    "CustomerName": "C175",
+    "Region": "Chelyabinsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 194,
+    "CustomerName": "C176",
+    "Region": "Murmansk",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 195,
+    "CustomerName": "C177",
+    "Region": "Perm",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 196,
+    "CustomerName": "C178",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 2,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Other",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 198,
+    "CustomerName": "C179",
+    "Region": "Saint Petersburg",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 199,
+    "CustomerName": "C180",
+    "Region": "Nizhnevartovsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 200,
+    "CustomerName": "C181",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 201,
+    "CustomerName": "C182",
+    "Region": "Belgorod",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 202,
+    "CustomerName": "C183",
+    "Region": "Naro-Fominsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 1
+  },
+  {
+    "CustomerID": 203,
+    "CustomerName": "C184",
+    "Region": "Naberezhnye Chelny",
+    "Country": "Russian Federation",
+    "PriceCategory": 2,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 204,
+    "CustomerName": "C185",
+    "Region": "Omsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 1
+  },
+  {
+    "CustomerID": 205,
+    "CustomerName": "C186",
+    "Region": "Barnaul",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 206,
+    "CustomerName": "C187",
+    "Region": "Saratov",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 207,
+    "CustomerName": "C188",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Other",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 208,
+    "CustomerName": "C189",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 2,
+    "CustomerClass": "Large-Scale Wholesaler-2",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 209,
+    "CustomerName": "C190",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Organic Search",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 210,
+    "CustomerName": "C191",
+    "Region": "Tomsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-1",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 211,
+    "CustomerName": "C192",
+    "Region": "Tambov",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 213,
+    "CustomerName": "C193",
+    "Region": "Maloyaroslavets",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 215,
+    "CustomerName": "C194",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Referral by Third Parties",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 216,
+    "CustomerName": "C195",
+    "Region": "Khabarovsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 217,
+    "CustomerName": "C196",
+    "Region": "Kazan",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in Regional Wholesaler Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 218,
+    "CustomerName": "C197",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-2",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 219,
+    "CustomerName": "C198",
+    "Region": "Tver",
+    "Country": "Russian Federation",
+    "PriceCategory": 1,
+    "CustomerClass": "Large-Scale Wholesaler-2",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 221,
+    "CustomerName": "C199",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 222,
+    "CustomerName": "C200",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 223,
+    "CustomerName": "C201",
+    "Region": "Nadym",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 224,
+    "CustomerName": "C202",
+    "Region": "Smolensk",
+    "Country": "Russian Federation",
+    "PriceCategory": 2,
+    "CustomerClass": "Large-Scale Wholesaler-2",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 225,
+    "CustomerName": "C203",
+    "Region": "Vologda",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 226,
+    "CustomerName": "C204",
+    "Region": "Naryan-Mar",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 227,
+    "CustomerName": "C205",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 228,
+    "CustomerName": "C206",
+    "Region": "Penza",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 229,
+    "CustomerName": "C207",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 230,
+    "CustomerName": "C208",
+    "Region": "Dolgoprudny",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 231,
+    "CustomerName": "C209",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 3,
+    "CustomerClass": "HyPermarket",
+    "LeadSource": "Other",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 232,
+    "CustomerName": "C210",
+    "Region": "Saratov",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Referral by Third Parties",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 233,
+    "CustomerName": "C211",
+    "Region": "Samara",
+    "Country": "Russian Federation",
+    "PriceCategory": 2,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 234,
+    "CustomerName": "C212",
+    "Region": "Chelyabinsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Referral by the Central Office",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 235,
+    "CustomerName": "C213",
+    "Region": "Kovrov",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 236,
+    "CustomerName": "C214",
+    "Region": "Tula",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 237,
+    "CustomerName": "C215",
+    "Region": "Khabarovsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 238,
+    "CustomerName": "C216",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 239,
+    "CustomerName": "C217",
+    "Region": "Belgorod",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 240,
+    "CustomerName": "C218",
+    "Region": "Rostov-on-Don",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 241,
+    "CustomerName": "C219",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 242,
+    "CustomerName": "C220",
+    "Region": "Pavlovsky Posad",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 243,
+    "CustomerName": "C221",
+    "Region": "Vologda",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 244,
+    "CustomerName": "C222",
+    "Region": "Yakutsk",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Advertisement in National Wholesale Magazine",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 245,
+    "CustomerName": "C223",
+    "Region": "Nizhny Novgorod",
+    "Country": "Russian Federation",
+    "PriceCategory": 5,
+    "CustomerClass": "Retailer",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 246,
+    "CustomerName": "C224",
+    "Region": "Kemerovo",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  },
+  {
+    "CustomerID": 247,
+    "CustomerName": "C225",
+    "Region": "Moscow",
+    "Country": "Russian Federation",
+    "PriceCategory": 4,
+    "CustomerClass": "Small-Scale Wholesaler",
+    "LeadSource": "Sales Calls or Visits",
+    "Discontinued": 0
+  }
+]
