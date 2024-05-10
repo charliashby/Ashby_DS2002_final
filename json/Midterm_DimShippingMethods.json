@@ -1,0 +1,22 @@
+[
+  {
+    "shipping_methods_key": 1,
+    "ShippingMethodID": 1,
+    "ShippingMethod": "Ex Works"
+  },
+  {
+    "shipping_methods_key": 2,
+    "ShippingMethodID": 2,
+    "ShippingMethod": "Door to Door Service"
+  },
+  {
+    "shipping_methods_key": 3,
+    "ShippingMethodID": 3,
+    "ShippingMethod": "Container"
+  },
+  {
+    "shipping_methods_key": 4,
+    "ShippingMethodID": 4,
+    "ShippingMethod": "Truck"
+  }
+]
